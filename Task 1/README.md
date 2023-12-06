@@ -1,4 +1,28 @@
-# Bakery-Shop-landing-page
+# Bakery Shop Landing Page Task
 
-This site create using pure HTML,CSS and JS.This is a Bakery-shop-landing-page.
-To view site: https://freshbakes.netlify.app/
+## Description
+
+This repository contains the code and assets for the Bakery Shop Landing Page Task. The objective is to create an appealing and functional landing page for a bakery shop.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- 
+## Visuals
+
+C:\Users\poorn\Videos\Captures\image1.png
+C:\Users\poorn\Videos\Captures\image2.png
+C:\Users\poorn\Videos\Captures\image3.png
+
+## 🌟 Star the Repository
+
+If you find this project useful, please give it a star on GitHub!
+
+## 🚀 Visit the Live Landing Page
+
+Explore the Fresh Bakes Landing Page live at https://freshbakes.netlify.app/
+
+
+
