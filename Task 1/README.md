@@ -12,9 +12,9 @@ This repository contains the code and assets for the Bakery Shop Landing Page Ta
   
 ## Visuals
 
-![Bakery Shop Landing Page](C:\Users\poorn\Videos\Captures\image1.png)
-![Bakery Shop Landing Page](C:\Users\poorn\Videos\Captures\image2.png)
-![Bakery Shop Landing Page](C:\Users\poorn\Videos\Captures\image3.png)
+![Bakery Shop Landing Page](image1.png)
+![Bakery Shop Landing Page](image2.png)
+![Bakery Shop Landing Page](image3.png)
 
 ## 🌟 Star the Repository
 
