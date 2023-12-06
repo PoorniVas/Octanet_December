@@ -9,7 +9,7 @@ This repository contains the code and assets for the Bakery Shop Landing Page Ta
 - HTML
 - CSS
 - JavaScript
-- 
+  
 ## Visuals
 
 C:\Users\poorn\Videos\Captures\image1.png
