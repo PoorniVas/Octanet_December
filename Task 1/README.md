@@ -9,12 +9,6 @@ This repository contains the code and assets for the Bakery Shop Landing Page Ta
 - HTML
 - CSS
 - JavaScript
-  
-## Visuals
-
-![Bakery Shop Landing Page](image1.png)
-![Bakery Shop Landing Page](image2.png)
-![Bakery Shop Landing Page](image3.png)
 
 ## 🌟 Star the Repository
 
