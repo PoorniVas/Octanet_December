@@ -1,4 +1,4 @@
-# Bakery Shop Landing Page Task
+# Bakery Shop Landing Page 
 
 ## Description
 
