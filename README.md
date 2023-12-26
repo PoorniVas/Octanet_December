@@ -1,6 +1,7 @@
 # Octanet Internship Tasks
 
-Welcome to the repository where I showcase the tasks I completed during my internship at Octanet. Here, you'll find the code and documentation for the projects I worked on, which include:
+Welcome to the repository where I showcase the tasks I completed during my internship at Octanet. Here, you'll find the code 
+for the projects I worked on, which include:
 
 ## Landing Page Development
 I designed and implemented a dynamic landing page as part of my internship tasks. The page is focused on bakery shop landing page. The technologies used include HTML,CSS,Javascript.
