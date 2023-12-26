@@ -13,5 +13,5 @@ As part of my internship responsibilities, I developed a feature-rich to-do list
 organize their tasks efficiently.
 
 **Key Files:**
-- [Task 2](https://github.com/PoorniVas/Octanet_December/tree/main/Task2)
+- [[Task 2](https://github.com/PoorniVas/Octanet_December/tree/main/Task2)](https://github.com/PoorniVas/Octanet_December/tree/main/Task2)https://github.com/PoorniVas/Octanet_December/tree/main/Task2
 - 
